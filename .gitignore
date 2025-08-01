@@ -1,0 +1,6 @@
+.aws-sam
+.venv
+__pycache__
+samconfig.toml
+template.yaml
+
